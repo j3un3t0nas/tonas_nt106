@@ -1,0 +1,13 @@
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\bin\Debug\Bai03_Lab03.exe.config
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\bin\Debug\Bai03_Lab03.exe
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\bin\Debug\Bai03_Lab03.pdb
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.csproj.AssemblyReference.cache
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.csproj.SuggestedBindingRedirects.cache
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.Properties.Resources.resources
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.csproj.GenerateResource.cache
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.csproj.CoreCompileInputs.cache
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.exe
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.pdb
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.Form1.resources
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.TCP_Server.resources
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB03\LAB\LAB03\Bai03_Lab03\obj\Debug\Bai03_Lab03.TCP_Client.resources
