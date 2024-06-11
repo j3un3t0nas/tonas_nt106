@@ -1,0 +1,10 @@
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\bin\Debug\LAB05.exe.config
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\bin\Debug\LAB05.exe
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\bin\Debug\LAB05.pdb
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\obj\Debug\LAB05.csproj.AssemblyReference.cache
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\obj\Debug\LAB05.Bai01_Lab05.resources
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\obj\Debug\LAB05.Properties.Resources.resources
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\obj\Debug\LAB05.csproj.GenerateResource.cache
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\obj\Debug\LAB05.csproj.CoreCompileInputs.cache
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\obj\Debug\LAB05.exe
+D:\University of Information Technology\Sem II 2023 - 2024\NT102\Thực hành\LAB05\LAB05\LAB05\obj\Debug\LAB05.pdb
